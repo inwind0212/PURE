@@ -1,0 +1,38 @@
+{
+  "completed_at": "2026-09-14T12:13:02+00:00",
+  "cities": [
+    "bangkok",
+    "johannesburg",
+    "los_angeles",
+    "melbourne",
+    "montreal",
+    "mumbai",
+    "osaka",
+    "paris",
+    "rio_de_janeiro",
+    "chengdu",
+    "manchester",
+    "nairobi",
+    "lisbon",
+    "luanda",
+    "buenos_aires"
+  ],
+  "city_count": 15,
+  "tasks": [
+    "gdp",
+    "pop",
+    "ntl",
+    "pm25",
+    "lst"
+  ],
+  "downstream_seeds": [
+    0,
+    7,
+    24,
+    42,
+    100
+  ],
+  "detail_rows": 2025,
+  "baseline_mean_r2": 0.7773689459164939,
+  "scope_fraction_rows": 30
+}

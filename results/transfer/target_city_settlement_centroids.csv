@@ -1,0 +1,16 @@
+target,target_city,target_city_centroid_latitude,target_city_centroid_longitude,centroid_method
+bangkok,Bangkok,13.91617248,100.51591153,Area centroid of settlement support in EPSG:6933
+chengdu,Chengdu,30.74737304,103.99282403,Area centroid of settlement support in EPSG:6933
+osaka,Osaka,34.80203698,135.50414387,Area centroid of settlement support in EPSG:6933
+mumbai,Mumbai,19.16723895,73.03334941,Area centroid of settlement support in EPSG:6933
+melbourne,Melbourne,-37.85772494,145.06806940,Area centroid of settlement support in EPSG:6933
+johannesburg,Johannesburg,-26.00496979,28.11155799,Area centroid of settlement support in EPSG:6933
+nairobi,Nairobi,-0.60469055,37.20872491,Area centroid of settlement support in EPSG:6933
+luanda,Luanda,-8.91700035,13.33420531,Area centroid of settlement support in EPSG:6933
+lisbon,Lisbon,38.73913666,-9.18058525,Area centroid of settlement support in EPSG:6933
+paris,Paris,48.83203823,2.31681512,Area centroid of settlement support in EPSG:6933
+manchester,Manchester,53.49901111,-2.48518399,Area centroid of settlement support in EPSG:6933
+montreal,Montreal,45.54425086,-73.66792601,Area centroid of settlement support in EPSG:6933
+los_angeles,Los Angeles,33.95485806,-117.91785357,Area centroid of settlement support in EPSG:6933
+rio_de_janeiro,Rio de Janeiro,-22.81809593,-43.30703736,Area centroid of settlement support in EPSG:6933
+buenos_aires,Buenos Aires,-34.64321156,-58.57475523,Area centroid of settlement support in EPSG:6933

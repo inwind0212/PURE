@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-09-15T16:55:02.271821+00:00",
+  "response": "mean transfer delta R2 across five tasks and five downstream seeds",
+  "geographic_distance": "great-circle distance from source-country capital to target-city settlement-support centroid; natural log before standardization",
+  "source_capitals": "World Bank country API; Pretoria used for South Africa",
+  "target_city_centroids": "area centroids of the predefined settlement supports in EPSG:6933, transformed to geographic coordinates",
+  "model": "separate mixed-effects models with crossed source-country and target-city random intercepts; two-sided Wald tests",
+  "pairs": 210,
+  "results": [
+    {
+      "predictor": "aef_similarity",
+      "standardized_beta": 0.7342338042135547,
+      "standard_error": 0.0468596953759584,
+      "wald_p": 2.4731805537630317e-55,
+      "ci95_lower": 0.642390488950158,
+      "ci95_upper": 0.8260771194769513,
+      "converged": true,
+      "warnings": []
+    },
+    {
+      "predictor": "log_distance_km",
+      "standardized_beta": -0.6014640743472613,
+      "standard_error": 0.058815747567164914,
+      "wald_p": 1.5127602489207008e-24,
+      "ci95_lower": -0.7167408213027039,
+      "ci95_upper": -0.4861873273918188,
+      "converged": true,
+      "warnings": []
+    }
+  ]
+}

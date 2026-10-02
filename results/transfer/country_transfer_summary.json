@@ -1,0 +1,10 @@
+{
+  "cities": 15,
+  "pairs": 225,
+  "off_diagonal_pairs": 210,
+  "matched_mean_delta_r2": 0.04313492981592815,
+  "cross_mean_delta_r2": -0.0013026986462729335,
+  "cross_median_delta_r2": -0.0034471607208251933,
+  "cross_positive_count": 88,
+  "cross_positive_fraction": 0.41904761904761906
+}

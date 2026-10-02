@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "population_samples_strictly_greater_than": 10000,
+  "task_samples_strictly_greater_than": 1000,
+  "input_countries": 142,
+  "sample_eligible_countries_by_task": {
+    "gdp": 142,
+    "pop": 142,
+    "ntl": 142,
+    "pm25": 142,
+    "lst": 142
+  },
+  "plotted_countries_by_task": {
+    "gdp": 142,
+    "pop": 142,
+    "ntl": 142,
+    "pm25": 142,
+    "lst": 142
+  },
+  "per_capita_excluded_groups": [],
+  "per_capita_exclusion_reason": {},
+  "kosovo_population_source": "WorldPop R2024A v1 2024 XKX country raster",
+  "kosovo_population_raster": "WorldPop/XKX/xkx_pop_2024_UC_100m_R2024A_v1.tif",
+  "kosovo_population_total": 1690921.000362413,
+  "country_code_mapping": {
+    "XKX": "KOS"
+  }
+}

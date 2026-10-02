@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use PURE or its released embeddings, please cite this software and the associated paper."
+title: "PURE: POI-aligned Urban Embedding"
+type: software
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/inwind0212/PURE"
+url: "https://spacetimeai.com/pure/"
+authors:
+  - family-names: Liu
+    given-names: Junyuan
+  - family-names: Wang
+    given-names: Xinglei
+  - family-names: Dong
+    given-names: Guangsheng
+  - family-names: Sha
+    given-names: Hao
+  - family-names: Zeng
+    given-names: Zichao
+  - family-names: Feng
+    given-names: Jiazhuang
+  - family-names: Wang
+    given-names: Xiang
+  - family-names: Cheng
+    given-names: Tao

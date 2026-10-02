@@ -1,0 +1,82 @@
+paths:
+  feature_store: ${oc.env:PURE_FEATURE_STORE}
+text:
+  backend: qwen
+  hf_model: Qwen/Qwen3-Embedding-8B
+  emb_dim: 512
+  projector_type: TextProj
+sampling:
+  type: joint_grid_ring
+  grid_resolution_m_equiv: 100
+  ring_half_side_px: [100, 1000, 10000]
+  ring_labels: [halfside_0_10km_equiv, halfside_10_100km_equiv, halfside_100_1000km_equiv, global_other]
+  ring_ratios: [0.5, 0.2, 0.2, 0.1]
+  anchor_cell_px: 10000
+  anchor_alpha: 0.5
+  anchor_region_mode: custom
+  anchor_region_weights:
+    china: 0.275
+    us: 0.14
+    europe: 0.17
+    africa: 0.045
+    asia_ex_china: 0.13
+    middle_east_central_asia: 0.055
+    latin_america_caribbean: 0.1
+    oceania: 0.035
+    europe_non32: 0.02
+    north_america_ex_us: 0.03
+  anchor_region_max_per_component: 2000000
+  anchor_region_min_per_component: 1000000
+  anchor_region_build_chunk_rows: 4000000
+  same_anchor_group_other_ratio: 0.0
+  other_sampling_mode: clustered
+  other_cluster_half_side_px: 10000
+  other_clusters: 4
+  world_width_px: 400752
+  oversample_factor: 2.0
+  fallback_mode: outward_then_global
+  exclude_center_px: true
+  max_ring_attempts: 12
+  max_other_attempts: 16
+  max_topup_attempts: 24
+  max_exact_topup_scan: 5000000
+train:
+  device: cuda:0
+  batch_size: 2048
+  epochs: 10
+  lr_schedule_epochs: 10
+  batch_fetch_chunk: 2048
+  prefetch_chunks: true
+  io_read_workers: 32
+  num_workers: 0
+  seed: 45
+  eta_min_ratio: 1.0
+model:
+  ae_type: AEProjSH
+  hidden_dim: 2048
+  out_dim: 128
+  lambda: 0.2
+  tau_img: 0.07
+  tau_xt: 0.07
+  lr: 0.0001
+  weight_decay: 0.0001
+  betas: [0.9, 0.999]
+  pos:
+    encoding: spherical_harmonics
+    sh_degree: 8
+    hidden_dim: 256
+    rho_init: 0.001
+    origin_left: -180.0
+    origin_bottom: -84.0
+    resolution_deg: 0.0008983111749910168
+    input: global_100m_xy
+loss:
+  xt_mode: one_hot
+  ae_relation_weight: 0.5
+  ae_relation_temperature: 0.1
+  ae_relation_sample_size: 512
+logging:
+  output_dir: ${oc.env:PURE_OUTPUT_DIR}
+  run_name: pure_global_overture2024_qwen512_shpos_h2048_out128_ep10_relAE_fixedlr1e4_s45
+  save_every: 1
+  save_last: true

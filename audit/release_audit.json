@@ -1,0 +1,84 @@
+{
+  "passed": true,
+  "scope": "experiments reported in the main text",
+  "updated_at": "2026-10-01",
+  "main": {
+    "poi_release": "Overture 2024-12-18.0",
+    "poi_text": "A place of {category_leaf}, a type of {category_top}, named {name}.",
+    "training_rows": 84618817,
+    "epochs": 10,
+    "batch_size": 2048,
+    "learning_rate": 0.0001,
+    "schedule": "fixed",
+    "seed": 45,
+    "checkpoint": "checkpoints/PURE_epoch0010.pth",
+    "checkpoint_sha256": "6e1d51a795bafd0ece99f6494ca7e521b8614a953b4ba036905f7b6b4e611124",
+    "countries": 142,
+    "downstream_seeds": [
+      0,
+      7,
+      24,
+      42,
+      100
+    ],
+    "mean_r2": {
+      "AEF": 0.791850875,
+      "PURE": 0.82982142
+    }
+  },
+  "figure2": {
+    "countries": 142,
+    "per_capita_exclusions": [],
+    "mad_reduction_percent": {
+      "GDP": 18.4,
+      "POP": 4.7,
+      "NTL": 2.4,
+      "PM2.5": 36.6,
+      "LST": 12.7
+    }
+  },
+  "poi_fraction": {
+    "cities": 15,
+    "scopes": [
+      "city",
+      "country",
+      "country_loco"
+    ],
+    "percentages": [
+      1,
+      2,
+      5,
+      10,
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "baseline_mean_r2": 0.7773689459164939,
+    "country_full_gain": 0.04313492981592812,
+    "country_loco_full_gain": 0.03792637395858761,
+    "country_loco_retained_percent": 87.9
+  },
+  "cross_country": {
+    "sources": 15,
+    "targets": 15,
+    "pairs": 225,
+    "off_diagonal_pairs": 210,
+    "matched_mean_delta_r2": 0.04313492981592815,
+    "cross_mean_delta_r2": -0.0013026986462729335,
+    "cross_median_delta_r2": -0.0034471607208251933,
+    "positive_off_diagonal": 88,
+    "aef_similarity_beta": 0.7342338042135547,
+    "log_source_capital_target_city_distance_beta": -0.6014640743472613
+  },
+  "global_embedding_release": {
+    "status": "released",
+    "urls": [
+      "https://spacetimeai.com/pure/",
+      "https://archive.org/details/poi-aligned-urban-embedding-v1-index"
+    ]
+  },
+  "pending": [],
+  "validated_against_manuscript_version": 21
+}

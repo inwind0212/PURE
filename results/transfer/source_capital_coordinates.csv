@@ -1,0 +1,16 @@
+source_country,source_capital,source_capital_latitude,source_capital_longitude,coordinate_source
+Angola,Luanda,-8.81155,13.242,World Bank country API
+Argentina,Buenos Aires,-34.6118,-58.4173,World Bank country API
+Australia,Canberra,-35.282,149.129,World Bank country API
+Brazil,Brasilia,-15.7801,-47.9292,World Bank country API
+Canada,Ottawa,45.4215,-75.6919,World Bank country API
+China,Beijing,40.0495,116.286,World Bank country API
+France,Paris,48.8566,2.35097,World Bank country API
+India,New Delhi,28.6353,77.225,World Bank country API
+Japan,Tokyo,35.67,139.77,World Bank country API
+Kenya,Nairobi,-1.27975,36.8126,World Bank country API
+Portugal,Lisbon,38.7072,-9.13552,World Bank country API
+South Africa,Pretoria,-25.746,28.1871,World Bank country API
+Thailand,Bangkok,13.7308,100.521,World Bank country API
+United Kingdom,London,51.5002,-0.126236,World Bank country API
+United States,Washington D.C.,38.8895,-77.032,World Bank country API

@@ -1,0 +1,45 @@
+{
+  "release_status": "PURE v1.0.0 release",
+  "created_at": "2026-09-15T13:38:48.812488+00:00",
+  "poi_release": "Overture Places 2024-12-18.0",
+  "poi_text_template": "A place of {category_leaf}, a type of {category_top}, named {name}.",
+  "main_checkpoint_sha256": "6e1d51a795bafd0ece99f6494ca7e521b8614a953b4ba036905f7b6b4e611124",
+  "main_training": {
+    "epochs": 10,
+    "batch_size": 2048,
+    "learning_rate": 0.0001,
+    "schedule": "fixed",
+    "seed": 45
+  },
+  "transfer_training": {
+    "epochs": 10,
+    "batch_size": 512,
+    "learning_rate": 0.0001,
+    "schedule": "fixed",
+    "seed": 45
+  },
+  "downstream_seeds": [
+    0,
+    7,
+    24,
+    42,
+    100
+  ],
+  "main_result_root": "results/main",
+  "poi_fraction_result_root": "results/transfer",
+  "country_transfer_result_root": "results/transfer",
+  "data_release": [
+    "https://spacetimeai.com/pure/",
+    "https://archive.org/details/poi-aligned-urban-embedding-v1-index"
+  ],
+  "code_repository": "https://github.com/inwind0212/PURE",
+  "validated_against": {
+    "manuscript_version": 21,
+    "manuscript_sha256": "52b682bdcad4a3531d2f0c4f87d110cbf19028aa4903e7eea5df4ff577a4aa77"
+  },
+  "licensing": {
+    "software_and_checkpoint": "MIT",
+    "pure_embeddings_results_figures_and_documentation": "CC-BY-4.0",
+    "third_party_materials": "Excluded; original licences apply"
+  }
+}
