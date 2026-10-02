@@ -1,0 +1,248 @@
+country_code,country_name,occupied_ae100m_pixels,source_regions,worldpop_country_name,macroregion,worldpop_region,population,status,poi_per_occupied_pixel,poi_count_2024,poi_count,POI_M,poi_per_1000_people
+CHN,China,6912366,china,China,china,china,1452322538.1908712,ok_project_aggregate_CHN_TWN_HKG_MAC_2024poi,4.205238698298094,30106041,30106041,30.106041,20.72958327666145
+USA,United States of America,6270712,us,United States of America,us,us,344479571.96656936,ok,2.398876555006832,13146094,13146094,13.146094,38.162187455562055
+BRA,Brazil,1390827,latin_america_caribbean,Brazil,latin_america_caribbean,latin_america_caribbean,211574457.9038374,ok,2.682912396725114,3523155,3523155,3.523155,16.652080950155653
+GBR,United Kingdom,1215114,europe_ex_russia,United Kingdom,europe_ex_russia,europe_ex_russia,68906556.63514511,ok,2.63083052289744,2514854,2514854,2.514854,36.4965849812516
+DEU,Germany,1431120,europe_ex_russia,Germany,europe_ex_russia,europe_ex_russia,84695563.00397173,ok,2.188768936217788,2091311,2091311,2.091311,24.69209632506876
+IND,India,1320051,southern_asia,India,southern_asia,southern_asia,1444436244.0093048,ok,2.140787742291775,3052721,3052721,3.052721,2.1134342292094512
+JPN,Japan,1112865,eastern_asia_ex_china,Japan,eastern_asia_ex_china,eastern_asia_ex_china,124071179.0012518,ok,2.456018474837469,1717540,1717540,1.71754,13.843182710326875
+ITA,Italy,891679,europe_ex_russia,Italy,europe_ex_russia,europe_ex_russia,59435140.99944655,ok,2.571392844285892,1865189,1865189,1.865189,31.38192269144896
+FRA,France,987981,europe_ex_russia,France,europe_ex_russia,europe_ex_russia,66496159.005739726,ok,2.14760911394045,1573376,1573376,1.573376,23.661156125787528
+MEX,Mexico,756132,latin_america_caribbean,Mexico,latin_america_caribbean,latin_america_caribbean,130308398.99680412,ok,2.534168637222072,1951453,1951453,1.951453,14.975650188502891
+THA,Thailand,701629,southeast_asia,Thailand,southeast_asia,southeast_asia,71668011.51190019,ok_repaired_from_worldpop2020_scaled_wb2024,2.255414186129707,1499672,1499672,1.499672,20.92526314548277
+ESP,Spain,471542,europe_ex_russia,Spain,europe_ex_russia,europe_ex_russia,47915814.99563928,ok,3.1494013258628075,1222337,1222337,1.222337,25.510095155665045
+TUR,Turkey,503030,western_asia,Turkey,western_asia,western_asia,87371675.00691527,ok,2.834701707651631,896595,896595,0.896595,10.26184973481436
+CAN,Canada,617849,canada,Canada,canada,canada_north_america_other,39538477.22351356,ok,2.2944959043390862,1266589,1266589,1.266589,32.034339431938434
+IDN,Indonesia,639739,southeast_asia,Indonesia,southeast_asia,southeast_asia,282353643.9891821,ok,1.854792345003197,1382783,1382783,1.382783,4.89734426821486
+AUS,Australia,437508,oceania,Australia,oceania,oceania,26575738.37686651,ok,2.666792378653648,1036735,1036735,1.036735,39.01058120373622
+POL,Poland,479247,europe_ex_russia,Poland,europe_ex_russia,europe_ex_russia,38711737.99836584,ok,2.157371877132251,543735,543735,0.543735,14.045739822452637
+VNM,Vietnam,307766,southeast_asia,Vietnam,southeast_asia,southeast_asia,100675292.00029272,ok,3.0999753059142336,1817223,1817223,1.817223,18.050337514737144
+NLD,Netherlands,330556,europe_ex_russia,Netherlands,europe_ex_russia,europe_ex_russia,18165553.99899533,ok,2.216129793438933,614978,614978,0.614978,33.8540734862263
+TWN,Taiwan,177976,china,Taiwan,china,china,23264287.999227643,ok,3.955061356587405,0,0,0.0,0.0
+PHL,Philippines,257144,southeast_asia,Philippines,southeast_asia,southeast_asia,115310724.62362936,ok,2.637397722676788,1091633,1091633,1.091633,9.466881797534931
+MYS,Malaysia,227068,southeast_asia,Malaysia,southeast_asia,southeast_asia,35344241.99710889,ok,2.6868162841087253,613394,613394,0.613394,17.354849484399036
+ARG,Argentina,281291,latin_america_caribbean,Argentina,latin_america_caribbean,latin_america_caribbean,45617777.99928846,ok,2.0694974243754687,580669,580669,0.580669,12.729006660715855
+RUS,Russia,322193,russia,Russia,russia,russia,145205580.796462,ok,1.7062537050773916,343666,343666,0.343666,2.3667547632464934
+BEL,Belgium,243325,europe_ex_russia,Belgium,europe_ex_russia,europe_ex_russia,11727682.00097809,ok,2.0341313058666395,371677,371677,0.371677,31.69228155819727
+ZAF,South Africa,246289,africa,South Africa,africa,africa,63627883.99422288,ok,1.892358164595252,412651,412651,0.412651,6.485379901011116
+SWE,Sweden,261601,europe_ex_russia,Sweden,europe_ex_russia,europe_ex_russia,10581078.012483932,ok,1.6921380269953097,332709,332709,0.332709,31.443771571049577
+CHE,Switzerland,160167,europe_ex_russia,Switzerland,europe_ex_russia,europe_ex_russia,8898069.000610918,ok,2.529759563455644,292902,292902,0.292902,32.91747905977017
+GRC,Greece,128168,europe_ex_russia,Greece,europe_ex_russia,europe_ex_russia,10135934.890809324,ok,2.9380032457399663,319127,319127,0.319127,31.48471289899127
+AUT,Austria,177234,europe_ex_russia,Austria,europe_ex_russia,europe_ex_russia,9124755.000016872,ok,2.054374442826997,267324,267324,0.267324,29.29656741463258
+PRT,Portugal,144476,europe_ex_russia,Portugal,europe_ex_russia,europe_ex_russia,10430651.001849538,ok,2.5060425260943,326971,326971,0.326971,31.347132594314804
+COL,Colombia,144985,latin_america_caribbean,Colombia,latin_america_caribbean,latin_america_caribbean,52601437.36532219,ok,2.487443528640894,438059,438059,0.438059,8.327890299986233
+CZE,Czechia,165586,europe_ex_russia,Czechia,europe_ex_russia,europe_ex_russia,10791554.000637293,ok,2.10001449397896,177913,177913,0.177913,16.48631883688794
+KOR,South Korea,151973,eastern_asia_ex_china,South Korea,eastern_asia_ex_china,eastern_asia_ex_china,51738086.0024839,ok,2.131852368512828,230981,230981,0.230981,4.464428776683212
+HUN,Hungary,141728,europe_ex_russia,Hungary,europe_ex_russia,europe_ex_russia,9689721.999833403,ok,2.1953319033641905,165609,165609,0.165609,17.091202410435237
+ROU,Romania,141213,europe_ex_russia,Romania,europe_ex_russia,europe_ex_russia,19067838.002341308,ok,2.179891369774737,206853,206853,0.206853,10.8482671173628
+HKG,Hong Kong S.A.R.,21035,china,Hong Kong S.A.R.,china,china,7432025.984477229,ok,12.335868790111718,0,0,0.0,0.0
+CHL,Chile,122899,latin_america_caribbean,Chile,latin_america_caribbean,latin_america_caribbean,19714430.994770177,ok,2.1008226267097374,266759,266759,0.266759,13.53115390805677
+DNK,Denmark,133795,europe_ex_russia,Denmark,europe_ex_russia,europe_ex_russia,5963903.001814817,ok,1.83592809895736,199309,199309,0.199309,33.41922226759057
+PER,Peru,93073,latin_america_caribbean,Peru,latin_america_caribbean,latin_america_caribbean,34034889.99737755,ok,2.5533505957689124,369886,369886,0.369886,10.86784767127205
+FIN,Finland,121853,europe_ex_russia,Finland,europe_ex_russia,europe_ex_russia,5612044.004818198,ok,1.81220815244598,168250,168250,0.16825,29.9801640642072
+NOR,Norway,109018,europe_ex_russia,Norway,europe_ex_russia,europe_ex_russia,5549778.992251847,ok,1.85881230622466,186382,186382,0.186382,33.58367968530125
+UKR,Ukraine,99234,europe_ex_russia,Ukraine,europe_ex_russia,europe_ex_russia,37441260.0009149,ok,1.920692504585122,255434,255434,0.255434,6.822259720793539
+EGY,Egypt,81014,africa,Egypt,africa,africa,115578409.00204648,ok,2.1878564198780457,268784,268784,0.268784,2.3255554590238456
+PAK,Pakistan,89376,southern_asia,Pakistan,southern_asia,southern_asia,249335590.002486,ok,1.772768976011457,177042,177042,0.177042,0.7100550707511704
+BGR,Bulgaria,62194,europe_ex_russia,Bulgaria,europe_ex_russia,europe_ex_russia,6778221.999536365,ok,2.469900633501624,87047,87047,0.087047,12.84215831319099
+BGD,Bangladesh,65887,southern_asia,Bangladesh,southern_asia,southern_asia,172507468.0011311,ok,2.274105665761076,329826,329826,0.329826,1.911952008928897
+IRL,Ireland,66659,europe_ex_russia,Ireland,europe_ex_russia,europe_ex_russia,5227424.999885536,ok,2.209064042364872,136916,136916,0.136916,26.19186310716998
+NZL,New Zealand,63903,oceania,New Zealand,oceania,oceania,5194315.001111951,ok,2.226343051186955,126499,126499,0.126499,24.35335553829913
+ECU,Ecuador,61219,latin_america_caribbean,Ecuador,latin_america_caribbean,latin_america_caribbean,18058156.998521306,ok,2.256341985331352,171935,171935,0.171935,9.521182035025996
+SVK,Slovakia,56758,europe_ex_russia,Slovakia,europe_ex_russia,europe_ex_russia,5519119.313223538,ok,2.118520737164805,73414,73414,0.073414,13.301759906531403
+HRV,Croatia,59780,europe_ex_russia,Croatia,europe_ex_russia,europe_ex_russia,3889335.0008974895,ok,1.9060889929742388,74464,74464,0.074464,19.145689425780223
+ISR,Israel,43593,western_asia,Israel,western_asia,western_asia,8390313.969134156,ok,2.5509370770536552,120763,120763,0.120763,14.393144338132824
+NGA,Nigeria,53490,africa,Nigeria,africa,africa,230271141.00532463,ok,1.7848382875303794,201434,201434,0.201434,0.8747687579111018
+SAU,Saudi Arabia,52647,western_asia,Saudi Arabia,western_asia,western_asia,33661241.15004115,ok,1.761239956692689,83437,83437,0.083437,2.478726189212366
+ARE,United Arab Emirates,32842,western_asia,United Arab Emirates,western_asia,western_asia,10839131.00294938,ok,2.794044211680166,107767,107767,0.107767,9.942402206475416
+SGP,Singapore,14477,southeast_asia,Singapore,southeast_asia,southeast_asia,5812461.000631496,ok,5.524763417835187,0,0,0.0,0.0
+CRI,Costa Rica,36584,latin_america_caribbean,Costa Rica,latin_america_caribbean,latin_america_caribbean,5118075.001476481,ok,2.1702656899190904,84884,84884,0.084884,16.58514186984606
+MAR,Morocco,49012,africa,Morocco,africa,africa,37901283.99407184,ok,1.5989553578715416,124734,124734,0.124734,3.29102306981235
+LKA,Sri Lanka,41573,southern_asia,Sri Lanka,southern_asia,southern_asia,23032729.664667983,ok,1.8845404469246867,107380,107380,0.10738,4.662061404068838
+PRI,Puerto Rico,35647,latin_america_caribbean,Puerto Rico,latin_america_caribbean,latin_america_caribbean,3244033.0000273352,ok,2.174011838303364,62455,62455,0.062455,19.25227024493084
+SRB,Republic of Serbia,38398,europe_ex_russia,Republic of Serbia,europe_ex_russia,europe_ex_russia,6758334.000951136,ok,2.016016459190583,64028,64028,0.064028,9.47393247965978
+NPL,Nepal,30508,southern_asia,Nepal,southern_asia,southern_asia,29673950.001026377,ok,2.4294283466631703,75998,75998,0.075998,2.5611015721658674
+PRY,Paraguay,35861,latin_america_caribbean,Paraguay,latin_america_caribbean,latin_america_caribbean,6886765.999738132,ok,2.011823429352221,74566,74566,0.074566,10.827433370443453
+LTU,Lithuania,31653,europe_ex_russia,Lithuania,europe_ex_russia,europe_ex_russia,2866813.0010427805,ok,2.125201402710644,46549,46549,0.046549,16.23719439777487
+GTM,Guatemala,29959,latin_america_caribbean,Guatemala,latin_america_caribbean,latin_america_caribbean,18265192.00095801,ok,2.190059748322708,77488,77488,0.077488,4.2423862829329
+DZA,Algeria,48352,africa,Algeria,africa,africa,46497094.95395269,ok,1.3466867968232958,114471,114471,0.114471,2.4618957402255703
+KEN,Kenya,26639,africa,Kenya,africa,africa,55884493.99757087,ok,2.348361424978416,74020,74020,0.07402,1.324517673958315
+BOL,Bolivia,30220,latin_america_caribbean,Bolivia,latin_america_caribbean,latin_america_caribbean,12328824.011210892,ok,2.046591661151555,79604,79604,0.079604,6.4567390959279
+LVA,Latvia,30662,europe_ex_russia,Latvia,europe_ex_russia,europe_ex_russia,1874925.15550419,ok,1.89407083686648,34224,34224,0.034224,18.253528627278328
+SVN,Slovenia,28634,europe_ex_russia,Slovenia,europe_ex_russia,europe_ex_russia,2119223.9995556884,ok,1.9250890549696165,34053,34053,0.034053,16.06861757281886
+DOM,Dominican Republic,25852,latin_america_caribbean,Dominican Republic,latin_america_caribbean,latin_america_caribbean,11379987.999059709,ok,2.0509438341327555,60440,60440,0.06044,5.311077657111234
+MMR,Myanmar,24299,southeast_asia,Myanmar,southeast_asia,southeast_asia,54320481.00533849,ok,1.990904975513396,79967,79967,0.079967,1.4721335032386962
+EST,Estonia,23260,europe_ex_russia,Estonia,europe_ex_russia,europe_ex_russia,1367225.9994751057,ok,2.021539122957868,0,0,0.0,0.0
+JOR,Jordan,19389,western_asia,Jordan,western_asia,western_asia,11530943.000287443,ok,2.4242096033833618,56386,56386,0.056386,4.889973005555088
+KHM,Cambodia,19437,southeast_asia,Cambodia,southeast_asia,southeast_asia,17533082.998951253,ok,2.341822297679683,132655,132655,0.132655,7.565982548986668
+TUN,Tunisia,23314,africa,Tunisia,africa,africa,12240260.000967842,ok,1.934159732349661,69731,69731,0.069731,5.696856112083105
+VEN,Venezuela,27610,latin_america_caribbean,Venezuela,latin_america_caribbean,latin_america_caribbean,28350924.996077348,ok,1.591633466135458,73047,73047,0.073047,2.576529690304878
+BIH,Bosnia and Herzegovina,26465,europe_ex_russia,Bosnia and Herzegovina,europe_ex_russia,europe_ex_russia,3175680.000474849,ok,1.6470054789344415,28984,28984,0.028984,9.126864166309616
+URY,Uruguay,21496,latin_america_caribbean,Uruguay,latin_america_caribbean,latin_america_caribbean,3387478.997823596,ok,1.9467342761443989,47371,47371,0.047371,13.984145740958144
+SLV,El Salvador,17261,latin_america_caribbean,El Salvador,latin_america_caribbean,latin_america_caribbean,6323984.9997512335,ok,2.3121487746943976,40778,40778,0.040778,6.448149387072247
+IRQ,Iraq,22298,western_asia,Iraq,western_asia,western_asia,45557902.98881882,ok,1.6642748228540676,78221,78221,0.078221,1.7169578683021829
+LBN,Lebanon,19341,western_asia,Lebanon,western_asia,western_asia,5785791.000995814,ok,1.842148803060856,34801,34801,0.034801,6.014907900062458
+MKD,North Macedonia,16725,europe_ex_russia,North Macedonia,europe_ex_russia,europe_ex_russia,1827511.999673283,ok,1.9142002989536624,23679,23679,0.023679,12.956960066053332
+HND,Honduras,16866,latin_america_caribbean,Honduras,latin_america_caribbean,latin_america_caribbean,10735392.001579797,ok,1.893039250563264,32642,32642,0.032642,3.0405969335070835
+BLR,Belarus,18272,europe_ex_russia,Belarus,europe_ex_russia,europe_ex_russia,9085897.99952127,ok,1.6854750437828372,25859,25859,0.025859,2.8460588046841924
+CYP,Cyprus,12775,western_asia,Cyprus,western_asia,western_asia,1351837.0001670534,ok,2.398982387475538,0,0,0.0,0.0
+NIC,Nicaragua,15125,latin_america_caribbean,Nicaragua,latin_america_caribbean,latin_america_caribbean,6870069.999325745,ok,2.009123966942149,28230,28230,0.02823,4.1091284372314405
+KAZ,Kazakhstan,19171,central_asia,Kazakhstan,central_asia,central_asia,20464207.95913288,ok,1.57868655782171,51411,51411,0.051411,2.51223991188264
+GEO,Georgia,13838,western_asia,Georgia,western_asia,western_asia,3807839.0001944657,ok,2.0338921809510047,39296,39296,0.039296,10.319764044118768
+IRN,Iran,22150,southern_asia,Iran,southern_asia,southern_asia,91114776.97253902,ok,1.209255079006772,29026,29026,0.029026,0.3185652312878745
+UGA,Uganda,11377,africa,Uganda,africa,africa,49332093.00025975,ok,2.292256306583458,31140,31140,0.03114,0.6312320865817721
+ALB,Albania,11764,europe_ex_russia,Albania,europe_ex_russia,europe_ex_russia,2801661.002882422,ok,2.1794457667460048,20220,20220,0.02022,7.217147249148678
+LUX,Luxembourg,10141,europe_ex_russia,Luxembourg,europe_ex_russia,europe_ex_russia,669204.00011684,ok,2.459323538112612,0,0,0.0,0.0
+GHA,Ghana,15371,africa,Ghana,africa,africa,34108457.00156562,ok,1.5591698653308177,41670,41670,0.04167,1.2216911482711543
+MAC,Macao S.A.R,1598,china,Macao S.A.R,china,china,718317.6676981449,ok,14.657071339173967,0,0,0.0,0.0
+AZE,Azerbaijan,11576,western_asia,Azerbaijan,western_asia,western_asia,10304788.998787422,ok,1.925362819626814,23589,23589,0.023589,2.28912984077362
+PAN,Panama,10689,latin_america_caribbean,Panama,latin_america_caribbean,latin_america_caribbean,4487488.000412351,ok,2.054448498456357,25853,25853,0.025853,5.761129611404953
+MLT,Malta,6132,europe_ex_russia,Malta,europe_ex_russia,europe_ex_russia,536394.0001368821,ok,3.3219178082191783,0,0,0.0,0.0
+LAO,Laos,11553,southeast_asia,Laos,southeast_asia,southeast_asia,7717673.999349158,ok,1.7366917683718517,27037,27037,0.027037,3.5032575880090384
+MDA,Moldova,9688,europe_ex_russia,Moldova,europe_ex_russia,europe_ex_russia,3053416.00026952,ok,2.047584640792733,18314,18314,0.018314,5.99787254615272
+KWT,Kuwait,9501,western_asia,Kuwait,western_asia,western_asia,4884142.999416448,ok,2.083675402589201,0,0,0.0,0.0
+ZWE,Zimbabwe,9798,africa,Zimbabwe,africa,africa,16478384.001048582,ok,1.9872422943457848,24256,24256,0.024256,1.471989000769523
+ISL,Iceland,9729,europe_ex_russia,Iceland,europe_ex_russia,europe_ex_russia,390739.9522723822,ok,1.7670880871620926,0,0,0.0,0.0
+ARM,Armenia,7944,western_asia,Armenia,western_asia,western_asia,2984437.9982926,ok,2.158862034239678,20696,20696,0.020696,6.934638954416277
+TZA,United Republic of Tanzania,10062,africa,United Republic of Tanzania,africa,africa,67578208.99896112,ok,1.6896243291592128,25018,25018,0.025018,0.3702080947481843
+PSE,Palestine,9358,western_asia,Palestine,western_asia,western_asia,5450425.999985917,ok,1.8042316734344943,16712,16712,0.016712,3.066182349791224
+LBY,Libya,11446,africa,Libya,africa,africa,7342539.981409724,ok,1.4684605975886773,35836,35836,0.035836,4.88059991375351
+TTO,Trinidad and Tobago,8430,latin_america_caribbean,Trinidad and Tobago,latin_america_caribbean,latin_america_caribbean,1505754.9999415344,ok,1.9937129300118623,0,0,0.0,0.0
+ZMB,Zambia,9187,africa,Zambia,africa,africa,21017547.99898981,ok,1.7312506803091323,27314,27314,0.027314,1.299580712332039
+QAT,Qatar,7197,western_asia,Qatar,western_asia,western_asia,3012452.0007984336,ok,2.110462692788662,0,0,0.0,0.0
+COD,Democratic Republic of the Congo,12368,africa,Democratic Republic of the Congo,africa,africa,107516150.99355143,ok,1.2072283311772316,17721,17721,0.017721,0.1648217485116526
+CYN,Northern Cyprus,6824,western_asia,Northern Cyprus,western_asia,western_asia,,missing,2.14390386869871,0,0,0.0,
+CUB,Cuba,8571,latin_america_caribbean,Cuba,latin_america_caribbean,latin_america_caribbean,11000593.00175077,ok,1.6430988216077471,12979,12979,0.012979,1.1798454863237249
+AGO,Angola,11397,africa,Angola,africa,africa,37312855.99334459,ok,1.2328682986750898,32609,32609,0.032609,0.8739347104873557
+UZB,Uzbekistan,8772,central_asia,Uzbekistan,central_asia,central_asia,36010453.98776417,ok,1.550387596899225,14624,14624,0.014624,0.4061042941854891
+SYR,Syria,9578,western_asia,Syria,western_asia,western_asia,24174627.97900224,ok,1.416057632073502,17378,17378,0.017378,0.7188528408831896
+CIV,Ivory Coast,8437,africa,Ivory Coast,africa,africa,31547788.00202701,ok,1.460708782742681,33779,33779,0.033779,1.0707248317324063
+OMN,Oman,7190,western_asia,Oman,western_asia,western_asia,5165144.018384324,ok,1.6801112656467316,11873,11873,0.011873,2.298677434305872
+CMR,Cameroon,7581,africa,Cameroon,africa,africa,28747540.99329605,ok,1.552829442026118,25921,25921,0.025921,0.9016771210464504
+MUS,Mauritius,6244,africa,Mauritius,africa,africa,1272517.000186883,ok,1.85970531710442,0,0,0.0,0.0
+AFG,Afghanistan,10266,southern_asia,Afghanistan,southern_asia,southern_asia,42044654.00022407,ok,1.119812974868498,10802,10802,0.010802,0.2569173241369148
+KOS,Kosovo,6526,europe_ex_russia,Kosovo,europe_ex_russia,europe_ex_russia,1690921.000362413,ok_worldpop2024_xkx_mapped_to_kos,1.7413423230156295,15704,15704,0.015704,9.287246415790081
+MNG,Mongolia,5435,eastern_asia_ex_china,Mongolia,eastern_asia_ex_china,eastern_asia_ex_china,3454269.995091712,ok,2.063477460901564,22429,22429,0.022429,6.493123013507954
+JAM,Jamaica,6124,latin_america_caribbean,Jamaica,latin_america_caribbean,latin_america_caribbean,2839821.999651134,ok,1.8161332462442847,11466,11466,0.011466,4.037577003561692
+MNE,Montenegro,5351,europe_ex_russia,Montenegro,europe_ex_russia,europe_ex_russia,639434.9999281114,ok,1.932909736497851,0,0,0.0,0.0
+BWA,Botswana,6117,africa,Botswana,africa,africa,2500552.018129018,ok,1.5932646722249468,12582,12582,0.012582,5.031688966588345
+NAM,Namibia,5686,africa,Namibia,africa,africa,2998153.0064901314,ok,1.605522335561027,0,0,0.0,0.0
+BHR,Bahrain,3959,western_asia,Bahrain,western_asia,western_asia,1587803.9999908083,ok,2.1063399848446576,0,0,0.0,0.0
+MOZ,Mozambique,4912,africa,Mozambique,africa,africa,34129693.99428178,ok,1.585097719869707,20165,20165,0.020165,0.5908344798924514
+SDN,Sudan,4977,africa,Sudan,africa,africa,50048573.14768691,ok,1.4333936106088006,8884,8884,0.008884,0.1775075579834105
+SEN,Senegal,4312,africa,Senegal,africa,africa,18288074.00093409,ok,1.6528293135435992,17474,17474,0.017474,0.955486072459434
+ETH,Ethiopia,4504,africa,Ethiopia,africa,africa,130355023.99395864,ok,1.4877886323268206,11874,11874,0.011874,0.0910896997767443
+MDG,Madagascar,4120,africa,Madagascar,africa,africa,31578390.000215784,ok,1.5866504854368932,16118,16118,0.016118,0.5104123421076838
+BRN,Brunei,3143,southeast_asia,Brunei,southeast_asia,southeast_asia,460869.0003851229,ok,2.020680878141903,0,0,0.0,0.0
+KGZ,Kyrgyzstan,3655,central_asia,Kyrgyzstan,central_asia,central_asia,7130594.001137892,ok,1.586593707250342,6348,6348,0.006348,0.8902484139451767
+YEM,Yemen,3692,western_asia,Yemen,western_asia,western_asia,39987261.00233982,ok,1.5544420368364031,8298,8298,0.008298,0.2075160886742018
+CNM,Cyprus No Mans Area,1704,western_asia,Cyprus No Mans Area,western_asia,western_asia,,missing,3.313380281690141,0,0,0.0,
+MWI,Malawi,3281,africa,Malawi,africa,africa,21376132.00198185,ok,1.6388296251142944,9292,9292,0.009292,0.434690429453678
+BLZ,Belize,3095,latin_america_caribbean,Belize,latin_america_caribbean,latin_america_caribbean,414097.00108490745,ok,1.7295638126009694,0,0,0.0,0.0
+SUR,Suriname,3079,latin_america_caribbean,Suriname,latin_america_caribbean,latin_america_caribbean,631743.9934883665,ok,1.6437154920428712,0,0,0.0,0.0
+BHS,The Bahamas,2858,latin_america_caribbean,The Bahamas,latin_america_caribbean,latin_america_caribbean,400366.00068671367,ok,1.7463261021693492,0,0,0.0,0.0
+BFA,Burkina Faso,3132,africa,Burkina Faso,africa,africa,23285916.000411004,ok,1.4412515964240102,10144,10144,0.010144,0.4356281281707344
+HTI,Haiti,2718,latin_america_caribbean,Haiti,latin_america_caribbean,latin_america_caribbean,11705194.998830585,ok,1.5989698307579103,10609,10609,0.010609,0.9063497020818448
+GUY,Guyana,2229,latin_america_caribbean,Guyana,latin_america_caribbean,latin_america_caribbean,828632.000335146,ok,1.867653656348138,0,0,0.0,0.0
+FJI,Fiji,2458,oceania,Fiji,oceania,oceania,926544.0000497838,ok,1.6855166802278274,0,0,0.0,0.0
+BEN,Benin,2859,africa,Benin,africa,africa,14287902.999425158,ok,1.408184679958027,8402,8402,0.008402,0.5880499048977331
+MDV,Maldives,423,southern_asia,Maldives,southern_asia,southern_asia,526843.9994937778,ok,8.79905437352246,0,0,0.0,0.0
+PNG,Papua New Guinea,2569,oceania,Papua New Guinea,oceania,oceania,10483060.996657278,ok,1.4309069676917088,3352,3352,0.003352,0.319753934568238
+NCL,New Caledonia,1836,oceania,New Caledonia,oceania,oceania,291268.99988997146,ok,1.9166666666666667,0,0,0.0,0.0
+BRB,Barbados,1908,latin_america_caribbean,Barbados,latin_america_caribbean,latin_america_caribbean,282376.0001070303,ok,1.8259958071278823,0,0,0.0,0.0
+CUW,Curaçao,1777,latin_america_caribbean,Curaçao,latin_america_caribbean,latin_america_caribbean,185460.0000294725,ok,1.8863252673044453,0,0,0.0,0.0
+AND,Andorra,1364,europe_ex_russia,Andorra,europe_ex_russia,europe_ex_russia,81418.00000263588,ok,2.4567448680351904,0,0,0.0,0.0
+COG,Republic of the Congo,2482,africa,Republic of the Congo,africa,africa,6257627.999483233,ok,1.3239323126510878,0,0,0.0,0.0
+RWA,Rwanda,1943,africa,Rwanda,africa,africa,14106346.999781596,ok,1.6217189912506431,4445,4445,0.004445,0.3151063843863206
+GUM,Guam,1427,oceania,Guam,oceania,oceania,167154.99991324835,ok,2.084092501751927,0,0,0.0,0.0
+VIR,United States Virgin Islands,1378,latin_america_caribbean,United States Virgin Islands,latin_america_caribbean,latin_america_caribbean,85303.00007230137,ok,2.0573294629898404,0,0,0.0,0.0
+TGO,Togo,1958,africa,Togo,africa,africa,9412392.002416588,ok,1.4346271705822269,5607,5607,0.005607,0.5957040461723682
+PYF,French Polynesia,1361,oceania,French Polynesia,oceania,oceania,281466.0000790986,ok,2.050698016164585,0,0,0.0,0.0
+CAF,Central African Republic,2646,africa,Central African Republic,africa,africa,5240249.003554406,ok,1.0423280423280423,1080,1080,0.00108,0.2060970765449213
+BTN,Bhutan,1523,southern_asia,Bhutan,southern_asia,southern_asia,789105.9999731902,ok,1.7977675640183848,0,0,0.0,0.0
+IMN,Isle of Man,1357,europe_ex_russia,Isle of Man,europe_ex_russia,europe_ex_russia,84172.99992407393,ok,1.986735445836404,0,0,0.0,0.0
+ABW,Aruba,1352,latin_america_caribbean,Aruba,latin_america_caribbean,latin_america_caribbean,108009.0000338465,ok,1.9696745562130176,0,0,0.0,0.0
+GIN,Guinea,1802,africa,Guinea,africa,africa,14581540.996909572,ok,1.4339622641509433,8919,8919,0.008919,0.6116637467802821
+MLI,Mali,1895,africa,Mali,africa,africa,24122345.91422184,ok,1.312401055408971,6762,6762,0.006762,0.2803209946514082
+CYM,Cayman Islands,979,latin_america_caribbean,Cayman Islands,latin_america_caribbean,latin_america_caribbean,73755.99998960458,ok,2.512768130745658,0,0,0.0,0.0
+SSD,South Sudan,2083,africa,South Sudan,africa,africa,11819853.004377311,ok,1.1800288046087375,2184,2184,0.002184,0.1847738714847965
+LIE,Liechtenstein,1103,europe_ex_russia,Liechtenstein,europe_ex_russia,europe_ex_russia,39736.00001155719,ok,2.127833182230281,0,0,0.0,0.0
+SWZ,eSwatini,1304,africa,eSwatini,africa,africa,1236306.0001348075,ok,1.7730061349693251,0,0,0.0,0.0
+SOM,Somalia,1319,africa,Somalia,africa,africa,18685826.00176328,ok,1.715693707354056,5531,5531,0.005531,0.2959997593618858
+BDI,Burundi,1826,africa,Burundi,africa,africa,13874901.001690311,ok,1.2294633077765609,3257,3257,0.003257,0.2347404136147144
+LSO,Lesotho,1247,africa,Lesotho,africa,africa,2324448.0002542594,ok,1.7842822774659182,3552,3552,0.003552,1.5281047369575336
+LBR,Liberia,1110,africa,Liberia,africa,africa,5553392.004594735,ok,1.936936936936937,5380,5380,0.00538,0.9687772798226248
+MCO,Monaco,398,europe_ex_russia,Monaco,europe_ex_russia,europe_ex_russia,38777.00011795069,ok,5.198492462311558,0,0,0.0,0.0
+CPV,Cabo Verde,1067,africa,Cabo Verde,africa,africa,523614.0004246924,ok,1.80506091846298,0,0,0.0,0.0
+SLE,Sierra Leone,942,africa,Sierra Leone,africa,africa,8552905.0013645,ok,1.9628450106157111,4147,4147,0.004147,0.484864499177578
+GAB,Gabon,1383,africa,Gabon,africa,africa,2511861.9978240896,ok,1.3174258857556038,0,0,0.0,0.0
+PRK,North Korea,844,eastern_asia_ex_china,North Korea,eastern_asia_ex_china,eastern_asia_ex_china,26460313.999518167,ok,2.091232227488152,698,698,0.000698,0.0263791276253452
+LCA,Saint Lucia,874,latin_america_caribbean,Saint Lucia,latin_america_caribbean,latin_america_caribbean,179523.00005271286,ok,2.01487414187643,0,0,0.0,0.0
+TJK,Tajikistan,1127,central_asia,Tajikistan,central_asia,central_asia,10491705.998226576,ok,1.5314995563442768,1863,1863,0.001863,0.1775688339260464
+BMU,Bermuda,737,north_america_other,Bermuda,north_america_other,canada_north_america_other,64672.00004120171,ok,2.094979647218453,0,0,0.0,0.0
+ALA,Aland,922,europe_ex_russia,Aland,europe_ex_russia,europe_ex_russia,,missing,1.524945770065076,0,0,0.0,
+NER,Niger,1102,africa,Niger,africa,africa,26592438.87070752,ok,1.2695099818511797,2939,2939,0.002939,0.1105201374830425
+GGY,Guernsey,695,europe_ex_russia,Guernsey,europe_ex_russia,europe_ex_russia,64169.000154542,ok,1.8633093525179856,0,0,0.0,0.0
+SMR,San Marino,505,europe_ex_russia,San Marino,europe_ex_russia,europe_ex_russia,33607.00000900775,ok,2.5504950495049505,0,0,0.0,0.0
+ATG,Antigua and Barbuda,740,latin_america_caribbean,Antigua and Barbuda,latin_america_caribbean,latin_america_caribbean,93548.99995080754,ok,1.7337837837837835,0,0,0.0,0.0
+MRT,Mauritania,1003,africa,Mauritania,africa,africa,5096521.002578131,ok,1.2482552342971087,2703,2703,0.002703,0.5303617896664525
+SOL,Somaliland,727,africa,Somaliland,africa,africa,,missing,1.687757909215956,0,0,0.0,
+TCD,Chad,1034,africa,Chad,africa,africa,19870443.995187983,ok,1.1605415860735009,2502,2502,0.002502,0.1259156564697753
+FRO,Faroe Islands,755,europe_ex_russia,Faroe Islands,europe_ex_russia,europe_ex_russia,55076.99979863141,ok,1.5880794701986756,0,0,0.0,0.0
+SYC,Seychelles,685,africa,Seychelles,africa,africa,129206.99998285389,ok,1.7226277372262773,0,0,0.0,0.0
+GMB,Gambia,790,africa,Gambia,africa,africa,2728905.000090637,ok,1.4873417721518989,0,0,0.0,0.0
+TLS,East Timor,725,southeast_asia,East Timor,southeast_asia,southeast_asia,1391724.999159747,ok,1.5144827586206897,0,0,0.0,0.0
+TCA,Turks and Caicos Islands,545,latin_america_caribbean,Turks and Caicos Islands,latin_america_caribbean,latin_america_caribbean,46370.000045839406,ok,1.8587155963302755,0,0,0.0,0.0
+JEY,Jersey,667,europe_ex_russia,Jersey,europe_ex_russia,europe_ex_russia,103766.00011160072,ok,1.4677661169415293,0,0,0.0,0.0
+KNA,Saint Kitts and Nevis,446,latin_america_caribbean,Saint Kitts and Nevis,latin_america_caribbean,latin_america_caribbean,46803.00003650464,ok,2.087443946188341,0,0,0.0,0.0
+MAF,Saint Martin,412,latin_america_caribbean,Saint Martin,latin_america_caribbean,latin_america_caribbean,26772.00000560284,ok,2.0776699029126213,0,0,0.0,0.0
+VUT,Vanuatu,494,oceania,Vanuatu,oceania,oceania,324084.99993926,ok,1.728744939271255,0,0,0.0,0.0
+MNP,Northern Mariana Islands,487,oceania,Northern Mariana Islands,oceania,oceania,44667.26305677515,ok,1.7433264887063655,0,0,0.0,0.0
+GRD,Grenada,501,latin_america_caribbean,Grenada,latin_america_caribbean,latin_america_caribbean,117155.00025105104,ok,1.469061876247505,0,0,0.0,0.0
+WSM,Samoa,454,oceania,Samoa,oceania,oceania,217342.00036065173,ok,1.5550660792951545,0,0,0.0,0.0
+SXM,Sint Maarten,260,latin_america_caribbean,Sint Maarten,latin_america_caribbean,latin_america_caribbean,43056.000031501055,ok,2.6384615384615384,0,0,0.0,0.0
+TKM,Turkmenistan,529,central_asia,Turkmenistan,central_asia,central_asia,7430703.005444769,ok,1.1795841209829867,508,508,0.000508,0.0683649985240654
+VGB,British Virgin Islands,332,latin_america_caribbean,British Virgin Islands,latin_america_caribbean,latin_america_caribbean,39327.00005417946,ok,1.843373493975904,0,0,0.0,0.0
+GRL,Greenland,534,north_america_other,Greenland,north_america_other,canada_north_america_other,55882.99804921498,ok,1.0711610486891383,0,0,0.0,0.0
+DMA,Dominica,349,latin_america_caribbean,Dominica,latin_america_caribbean,latin_america_caribbean,66353.00006570667,ok,1.6275071633237823,0,0,0.0,0.0
+DJI,Djibouti,397,africa,Djibouti,africa,africa,1160871.9992130906,ok,1.4181360201511335,0,0,0.0,0.0
+GIB,Gibraltar,135,europe_ex_russia,Gibraltar,europe_ex_russia,europe_ex_russia,38918.99998254469,ok,3.696296296296296,0,0,0.0,0.0
+VCT,Saint Vincent and the Grenadines,312,latin_america_caribbean,Saint Vincent and the Grenadines,latin_america_caribbean,latin_america_caribbean,100966.0000494104,ok,1.5288461538461535,0,0,0.0,0.0
+ASM,American Samoa,344,oceania,American Samoa,oceania,oceania,47141.000014557096,ok,1.302325581395349,0,0,0.0,0.0
+BLM,Saint Barthelemy,195,latin_america_caribbean,Saint Barthelemy,latin_america_caribbean,latin_america_caribbean,11176.999969627708,ok,2.2153846153846155,0,0,0.0,0.0
+GNB,Guinea-Bissau,261,africa,Guinea-Bissau,africa,africa,2177388.0002024425,ok,1.4061302681992338,0,0,0.0,0.0
+AIA,Anguilla,234,latin_america_caribbean,Anguilla,latin_america_caribbean,latin_america_caribbean,14522.99998423364,ok,1.5683760683760684,0,0,0.0,0.0
+COK,Cook Islands,228,oceania,Cook Islands,oceania,oceania,13437.170471026737,ok,1.587719298245614,0,0,0.0,0.0
+ESB,Dhekelia Sovereign Base Area,213,western_asia,Dhekelia Sovereign Base Area,western_asia,western_asia,,missing,1.6150234741784038,0,0,0.0,
+GNQ,Equatorial Guinea,261,africa,Equatorial Guinea,africa,africa,1869617.9999395383,ok,1.2758620689655171,0,0,0.0,0.0
+COM,Comoros,222,africa,Comoros,africa,africa,858506.998716205,ok,1.3153153153153154,0,0,0.0,0.0
+STP,São Tomé and Principe,186,africa,São Tomé and Principe,africa,africa,233185.00041680783,ok,1.4946236559139785,0,0,0.0,0.0
+ERI,Eritrea,202,africa,Eritrea,africa,africa,3501780.000346695,ok,1.0891089108910892,349,349,0.000349,0.0996635996451653
+SLB,Solomon Islands,163,oceania,Solomon Islands,oceania,oceania,809538.9991313978,ok,1.2269938650306749,0,0,0.0,0.0
+WSB,Akrotiri Sovereign Base Area,137,western_asia,Akrotiri Sovereign Base Area,western_asia,western_asia,,missing,1.3576642335766422,0,0,0.0,
+PLW,Palau,101,oceania,Palau,oceania,oceania,17423.15512354276,ok,1.5445544554455446,0,0,0.0,0.0
+SPM,Saint Pierre and Miquelon,92,north_america_other,Saint Pierre and Miquelon,north_america_other,canada_north_america_other,5654.0000602526125,ok,1.6630434782608696,0,0,0.0,0.0
+NFK,Norfolk Island,101,oceania,Norfolk Island,oceania,oceania,2295.575595224625,ok,1.376237623762376,0,0,0.0,0.0
+TON,Tonga,117,oceania,Tonga,oceania,oceania,104379.00007596158,ok,1.1623931623931625,0,0,0.0,0.0
+FLK,Falkland Islands,86,latin_america_caribbean,Falkland Islands,latin_america_caribbean,latin_america_caribbean,3469.999574316422,ok,1.4651162790697674,0,0,0.0,0.0
+FSM,Federated States of Micronesia,91,oceania,Federated States of Micronesia,oceania,oceania,109140.1308385591,ok,1.3186813186813189,0,0,0.0,0.0
+MSR,Montserrat,49,latin_america_caribbean,Montserrat,latin_america_caribbean,latin_america_caribbean,4405.000070147216,ok,1.3673469387755102,0,0,0.0,0.0
+SHN,Saint Helena,44,africa,Saint Helena,africa,africa,5258.999928944919,ok,1.4772727272727273,0,0,0.0,0.0
+USG,US Naval Base Guantanamo Bay,40,latin_america_caribbean,US Naval Base Guantanamo Bay,latin_america_caribbean,latin_america_caribbean,,missing,1.325,0,0,0.0,
+ESH,Western Sahara,45,africa,Western Sahara,africa,africa,585182.9937183518,ok,1.022222222222222,0,0,0.0,0.0
+KIR,Kiribati,35,oceania,Kiribati,oceania,oceania,133526.99802758207,ok,1.1714285714285717,0,0,0.0,0.0
+KAB,Baykonur Cosmodrome,27,central_asia,Baykonur Cosmodrome,central_asia,central_asia,,missing,1.2962962962962965,0,0,0.0,
+NIU,Niue,27,oceania,Niue,oceania,oceania,1814.9999438929367,ok,1.2592592592592593,0,0,0.0,0.0
+NRU,Nauru,23,oceania,Nauru,oceania,oceania,11904.999984189402,ok,1.2173913043478262,0,0,0.0,0.0
+WLF,Wallis and Futuna,19,oceania,Wallis and Futuna,oceania,oceania,11320.00000535138,ok,1.0526315789473684,0,0,0.0,0.0
+HMD,Heard Island and McDonald Islands,18,oceania,Heard Island and McDonald Islands,oceania,oceania,,missing,1.0,0,0,0.0,
+MHL,Marshall Islands,9,oceania,Marshall Islands,oceania,oceania,38182.00004093535,ok,1.2222222222222223,0,0,0.0,0.0
+KAS,Siachen Glacier,11,southern_asia,Siachen Glacier,southern_asia,southern_asia,,missing,1.0,0,0,0.0,
+SPI,Southern Patagonian Ice Field,6,latin_america_caribbean,Southern Patagonian Ice Field,latin_america_caribbean,latin_america_caribbean,,missing,1.3333333333333333,0,0,0.0,
+BRT,Bir Tawil,6,africa,Bir Tawil,africa,africa,,missing,1.0,0,0,0.0,
+UMI,United States Minor Outlying Islands,4,oceania,United States Minor Outlying Islands,oceania,oceania,300.0,ok,1.25,0,0,0.0,0.0
+SGS,South Georgia and the Islands,4,latin_america_caribbean,South Georgia and the Islands,latin_america_caribbean,latin_america_caribbean,,missing,1.0,0,0,0.0,
+ATF,French Southern and Antarctic Lands,3,africa,French Southern and Antarctic Lands,africa,africa,,missing,1.0,0,0,0.0,
+PCN,Pitcairn Islands,2,oceania,Pitcairn Islands,oceania,oceania,24.083332987327594,ok,1.0,0,0,0.0,0.0
+IOA,Indian Ocean Territories,1,oceania,Indian Ocean Territories,oceania,oceania,,missing,1.0,0,0,0.0,
+TUV,Tuvalu,1,oceania,Tuvalu,oceania,oceania,9687.26278174299,ok,1.0,0,0,0.0,0.0

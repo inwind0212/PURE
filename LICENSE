@@ -1,0 +1,9 @@
+PURE licensing
+
+Code, model weights, configuration and environment files are licensed under
+the MIT License. See LICENSE-CODE.
+
+PURE embeddings, result tables, figures and documentation are licensed under
+CC BY 4.0. See LICENSE-DATA.
+
+Third-party datasets retain their original licences.
